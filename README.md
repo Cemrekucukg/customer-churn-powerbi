@@ -41,6 +41,6 @@ Key metrics from Power BI dashboard include:
 
 ## 👩‍💻 Author
 **Cemre Küçükgöde**  
-🌐 [Portfolio](https://cemrekucukg.github.io/portfolio)  
-💼 [LinkedIn](https://www.linkedin.com/in/cemrekucukg)  
+🌐 [Portfolio](https://cemrekucukgode.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/cemre-kucukgode-)  
 💻 [GitHub](https://github.com/Cemrekucukg)
