@@ -36,10 +36,11 @@ Key metrics from Power BI dashboard include:
   - Internet Service (Fiber Optic, DSL, None)  
   - Gender & Senior Citizen status  
 
-📎 **[View PDF Report](outputs/Customer_Churn_Analysis_Report.pdf)**
+📎 **[View PDF Report](reports/powerbi/Customer_Churn_Analysis_Report.pdf)**
+
 
 ## 👩‍💻 Author
 **Cemre Küçükgöde**  
-[🌐 Portfolio](https://cemrekucukg.github.io/portfolio) 
-[💼 LinkedIn](https://www.linkedin.com/in/cemrekucukg) 
-[💻 GitHub](https://github.com/Cemrekucukg)
+🌐 [Portfolio](https://cemrekucukg.github.io/portfolio)  
+💼 [LinkedIn](https://www.linkedin.com/in/cemrekucukg)  
+💻 [GitHub](https://github.com/Cemrekucukg)
